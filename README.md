@@ -3,4 +3,4 @@
 
 
 <h1 align="center">Cookenu</h1>
-Projeto passado em aula pela @Labenu
+Projeto passado em aula pela <a href="https://github.com/future4code">Labenu</a>. Ainda em desenvolvimento, devido a uns problemas na API, o projeto está pausado.
